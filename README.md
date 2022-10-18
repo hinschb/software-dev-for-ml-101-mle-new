@@ -9,3 +9,5 @@ git  remote  add origin  https://github.com/hinschb/software-dev-for-ml-101-mle-
 git push  -u  origin  main
 init git
 instructions.mdfile
+cd {directory name}
+cd {directory name} mkdir  code
