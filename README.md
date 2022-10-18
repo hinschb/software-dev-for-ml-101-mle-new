@@ -16,3 +16,5 @@ cd  code
 cd {software-dev-for-ml-101-mle-new}
 git checkout  -b LocalDev
 git commit -m  "Adding a "LocalDev branch}
+git  checkout  main
+git poush origin main
