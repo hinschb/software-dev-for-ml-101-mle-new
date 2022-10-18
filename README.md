@@ -11,3 +11,5 @@ init git
 instructions.mdfile
 cd {directory name}
 cd {directory name} mkdir  code
+git  clone  {software-dev-for-ml-101-mle-new}
+cd  code
