@@ -18,3 +18,4 @@ git checkout  -b LocalDev
 git commit -m  "Adding a "LocalDev branch}
 git  checkout  main
 git push  main
+git  remote  add  WD git@github.com/FourthBrain/Whodunit.git
